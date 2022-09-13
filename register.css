@@ -1,4 +1,4 @@
-@media only screen and (max-width: 768px)
+@media only screen and (min-width: 768px)
 {
 	body{
     font-size:auto;
@@ -50,7 +50,7 @@
 }
 
 
-@media only screen and (min-width: 768px)
+@media only screen and (max-width: 768px)
 {
 body{
      background-image: linear-gradient(rgb(194, 196, 218),rgb(233, 244, 243));
